@@ -5263,8 +5263,8 @@ blockquote.testimonial-big:before{
 	font-style:normal;
 }
 blockquote.testimonial-big > img{
-	width:100px !important;
-	margin:30px auto;
+	width:700px !important;
+	margin:15px auto;
 	height:auto;
 	border-radius:60px;
 	-moz-border-radius:60px;
